@@ -4,7 +4,7 @@ A simple implementation of the classic Tic-Tac-Toe game.
 
 ## Description
 
-This repository contains a basic version of Tic-Tac-Toe implemented using [mention the technology used, e.g., "HTML, CSS, and JavaScript"].
+This repository contains a basic version of Tic-Tac-Toe implemented using  technology used, e.g., HTML, CSS, and JavaScript.
 
 ## Features
 
